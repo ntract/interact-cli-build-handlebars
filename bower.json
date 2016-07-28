@@ -1,0 +1,7 @@
+{
+  "name": "interact-cli-plugins-build-handlebars",
+  "license": "GPL-3",
+  "main": [
+    "index.js"
+  ]
+}
