@@ -1,5 +1,5 @@
 {
-  "name": "ntract-cli-plugins-build-handlebars",
+  "name": "ntract-cli-build-handlebars",
   "license": "GPL-3",
   "main": [
     "index.js"
